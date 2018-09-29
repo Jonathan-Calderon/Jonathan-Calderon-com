@@ -1,0 +1,27 @@
+/*
+	Check out my CSS
+	Jonathan Calderon,  UX/UI Designer, Front End Developer
+	email me at hi@jonathancalderon.com
+*/
+
+/* Wrapper */
+
+	#wrapper {
+		opacity: 1 !important;
+	}
+
+/* Overlay */
+
+	#overlay {
+		opacity: 1 !important;
+	}
+
+/* Header */
+
+	#header {
+		opacity: 1 !important;
+	}
+
+		#header nav li {
+			opacity: 1 !important;
+		}
